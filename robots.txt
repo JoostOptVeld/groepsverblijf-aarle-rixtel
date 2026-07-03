@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://joostoptveld.github.io/groepsverblijf-aarle-rixtel/sitemap.xml
